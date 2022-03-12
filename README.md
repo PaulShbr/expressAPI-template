@@ -1,4 +1,4 @@
-# Server Middleware Verzeichnis
+# Express API Template
 
 - genutzt für APIs
 - express server in der server.ts
